@@ -1,0 +1,20 @@
+
+header {
+  background: #4A90E2;
+  height: 64px;
+
+}
+
+header nav {
+  display: flex;
+  color: #fff;
+  justify-content: space-between;
+  align-items: center;
+  height: 64px;
+  padding: 0 10px;
+  font-size: 15px;
+}
+
+header nav div i {
+  margin-left: 5px;
+}
